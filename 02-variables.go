@@ -18,6 +18,7 @@ func main()  {
 	var e int
 	fmt.Println("e", e)
 
+	//The := syntax is shorthand for declaring and initializing a variable
 	f := "short"
 	fmt.Println(f)
 
